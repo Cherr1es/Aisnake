@@ -1,0 +1,1 @@
+  -L"D:/Clion Projects/24.1.23/Aisnake/easyx/lib64"  -Wl,-Bstatic -leasyx -Wl,-Bdynamic -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
